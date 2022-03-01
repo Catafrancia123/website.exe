@@ -1,0 +1,198 @@
+<!--- Created By Catafrancia Mapper [School] 
+      Commented By Santosh Maravi [Inactive] Last Name Now: Santosh Maravi --->
+
+<!--- Created: Catafrancia Mapper [School]
+      Release: 30 May 2020
+      Info: First Ever Code
+      Dont Copy!!!
+      --->
+<!DOCTYPE html>
+<html>
+    <head>
+<script src="https://code.jquery.com/jquery-3.1.1.js"></script>
+
+<body text="Red" bgcolor=Black>
+   <marquee> <i><b>Welcome To Catafrancia Desktop.com</i></b></marquee>
+
+
+        <title>Catafranciadesktop.com</title>
+    
+    
+
+    
+    
+    
+    <h1>News</h1>
+    
+    <p>CNET</p>
+    <br />
+    <a href="https://www.cnet.com/news/">Link</a>
+    <br />
+    <br />
+    <p>Microsoft</p>
+    <br />
+    <a href="https://www.news.microsoft.com/">Link</a>
+    <br />
+    <br />
+    <p>Apple TV</p>
+    <br />
+    <a href="https://www.apple.com/tv-pr/news/">Link</a>
+    <br />
+    <br />
+    <p>CNN (Worldwide)</p>
+    <br />
+    <a href="https://edition.cnn.com/">Link</a>
+    <br />
+    <br />
+    <p>CNA</p>
+    <br />
+    <a href="https://www.channelnewsasia.com/news/international">Link</a>
+    <br />
+    <br />
+    <p>CNBC</p>
+    <br />
+    <a href="https://www.cnbc.com/world/?region=world">Link</a>
+    <br />
+    <br />
+    <p>Euronews</p>
+    <br />
+    <a href="https://www.euronews.com/">Link</a>
+    
+   
+    <h1>History Of Macos X</h1>
+    
+    
+    <input type=button value="History Of Macos X"onClick="mac()"> 
+    
+    <a href="https://youtu.be/BXKAtW0c-2I" target="_blank">For Video Full History [animation]</a>
+    
+    <h1>History Of Windows</h1>
+    
+    <input type=button value="History Of Windows"onClick="windows()">
+    
+    <h1>Rules</h1>
+    
+    <input type=button value="Rules"onClick="rule()">
+    
+    <h1>Game Crossover Startups My Version</h1>
+    
+    <a href=https://youtu.be/tP_UDn2bPaA> Part 1</a>
+    <a href=https://youtu.be/zqsx3Mev7Ro> Part 2</a>
+    
+    
+    <h1>Sign In For Free!</h1>
+    
+            <button><a style="text-decoration:none; color:black;" href="https://code.sololearn.com/WT6GQsq1wIbC/?ref=app">Sign In!</a></button>
+    
+    <h1>If You Want To Know More About Me Here But Different Languages Of Code</h1>
+    
+    <a href="https://code.sololearn.com/wEnx2TrVKeT4/?ref=app">PHP</a>
+    
+    <a href="https://code.sololearn.com/cyqU9fOphw0N/?ref=app">C</a>
+    
+    <a href="https://code.sololearn.com/cwURJ2zTLh33/?ref=app">C++</a>
+    
+    <a href="https://code.sololearn.com/cW1CXVEruriw/?ref=app">C#</a>
+    
+    <a href="https://code.sololearn.com/cWIKG38Y9M1q/?ref=app">Java</a>
+    
+    <a href="https://code.sololearn.com/c94d6iY7bd6U/?ref=app">Kotlin</a>
+    
+    <a href="https://code.sololearn.com/c41501i6jIz2/?ref=app">Swift</a>
+    
+    
+    <h1>Know About More Windows</h1>
+    
+    <a href="https://code.sololearn.com/cgeC41n4TD2t/?ref=app">1980's</a>
+    
+    <h1>History Of Macos Systems Full</h1>
+    
+    <a href="https://code.sololearn.com/citNf60S0QMZ/?ref=app">System 1</a>
+
+    <a href="https://code.sololearn.com/cXZwl8Fok2qM">System 2</a>
+
+    <a href="https://code.sololearn.com/cV2ZAbR19mSn">System 3</a>
+    
+    <h1>Full Apple Products History</h1>
+    
+    <a href="https://code.sololearn.com/c0viGLeOOD47/?ref=app">1970's</a>
+    
+    <h1>Hello World But In Different Languages</h1>
+    
+    <a href="https://code.sololearn.com/WH1tz0o0hlAX/?ref=app">Link (In Build)</a>
+    
+ </head>
+ 
+ <body>
+ 
+ 
+<div class = "slider">
+
+ 
+
+</div>
+     
+     
+     
+<!-- Main Content of Body-->
+
+<div class = "body"></div>
+
+
+
+<!-- end of body-->
+
+</body>
+
+
+<body>
+
+<script>
+  
+  swal("Welcome To Catafrancia Desktop Version 3.9.7",
+  "I Will Update A Few Days Later",
+  "success");
+  
+  
+
+
+
+
+
+</script>
+
+</body>
+
+
+
+
+
+
+   
+   
+   <br />
+   <br />
+   <br />
+   <br />
+   
+   <div class="section" id="contacts">
+            <h1><span>Follow Me</span></h1>
+            <div>
+                <a href="https://www.sololearn.com/Profile/18678237" target="_blank">
+                    <img alt="SoloLearn" src="https://www.sololearn.com/Uploads/icons/sololearn.png" />
+                </a>
+                <a href="https://m.facebook.com/catafrancia.mapper" target="_blank">
+                    <img alt="Facebook" src="https://www.sololearn.com/Uploads/icons/facebook.png"/>
+                </a>
+                <a href="https://mobile.twitter.com/CatafranciaR" target="_blank">
+                    <img alt="Twitter" src="https://www.sololearn.com/Uploads/icons/twitter.png" />
+                </a>
+            </div>
+        </div>
+<br />
+<br />
+
+<div class="copyright">
+            &copy; 2018-2020 Catafrancia Mapper. All rights reserved.
+        </div>
+</html>
