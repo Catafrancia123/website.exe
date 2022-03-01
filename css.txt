@@ -1,0 +1,50 @@
+/* Created By Catafrancia Mapper [School] */
+
+
+}
+
+h1{
+
+color:red;
+padding:5px;
+
+}
+
+a{
+
+color:orange;
+padding:7px;
+top:15;
+
+}
+
+
+
+   #contacts img {
+    height: 50px;
+    width: 50px;
+    margin-left: 7px;
+    margin-right: 7px;
+}
+#contacts a {
+    text-decoration: none;
+}
+#contacts img:hover {
+    opacity: 0.8;
+}
+#contacts {
+    text-align: center;
+}    
+
+ .copyright {
+    font-size: 8pt;
+    text-align: right;
+    padding-bottom: 10px;
+    color: grey;
+}   
+
+
+/* Wallpaper */
+
+body{
+    background-color:#ccff00;
